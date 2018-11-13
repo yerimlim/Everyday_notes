@@ -17,4 +17,4 @@ plot(iris)
 ![png](output_2_0.png)
 
 
-![image](./image/555.png)
+![image](555.png)
